@@ -1,1 +1,1 @@
-Zombie's Blog
+The site of NewDawn.
