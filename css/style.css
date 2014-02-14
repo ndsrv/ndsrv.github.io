@@ -409,4 +409,21 @@ body {
 			background: #8ab0d4;
 		}
 
+/*------------gallery*/
+.gallery {}
+.gallery a {display: block;	margin: 0px 10px 10px 0px;position: relative;
+	-webkit-box-shadow: 0 2px 15px 1px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 15px 1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 15px 1px rgba(0, 0, 0, 0.5);}
 
+/*Left and Right margins to images in the middle column*/
+/*This selects the 2nd, 5th and 8th elements*/
+/*.gallery a:nth-child(3n+2) {margin: 0 25px 25px 25px;}*/
+
+.gallery a img {display: block;	-webkit-transition: all 0.5s;}
+
+/*Hover effects*/
+.gallery a img:hover {-webkit-filter: none; /*Returns to default state*/}
+
+/*Default state for brightness has to be specified specifically*/
+.gallery a img.brightness:hover {-webkit-filter: brightness(0);}
