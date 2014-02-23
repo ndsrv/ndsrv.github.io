@@ -408,7 +408,7 @@ $(document).ready(function(){
 		
 		$.ajax({
 			type: "POST",
-			url: "php/submit-form-ajax.php",
+			url: "/submit.php",
 			data: dataString,
 			success: function(msg) {
 				
