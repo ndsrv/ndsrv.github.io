@@ -61,7 +61,7 @@
 		}
 		
 		#titlebar ul#top_menu > li.current-menu-item {
-			border-bottom: 4px solid #8fb5d9;
+			border-bottom: 4px solid #000000;
 			padding-bottom: 0;
 			font-weight: bold;
 			color: #1a2048;
@@ -71,7 +71,7 @@
 			display: block;
 			position: absolute; bottom: -9px;
 			width: 5px; height: 5px;
-			background: url(../img/arrow-cloud-blue.png) no-repeat 0 0;
+			background: url(../img/arrow-cloud-dark.png) no-repeat 0 0;
 		}
 		
 		#titlebar ul#top_menu > li.current-menu-item a:hover {
@@ -261,7 +261,7 @@
 #footer {
 	clear: both;
 	position: relative;
-	background: #24273b;
+	background: #6BFD57;
 	height: 120px;
 	margin: 20px 0 0 0;
 	padding: 0 0 60px 0;
@@ -274,7 +274,7 @@
 		margin-left: -490px;
 		margin-top: -5px;
 		padding: 20px 0 35px 0;
-		border-top: 5px solid #8fb5d9;
+		border-top: 5px solid #000000;
 		border-bottom: 1px solid #3f4259;
 	}
 
@@ -311,7 +311,7 @@
 	#footer a.top {
 		display: block;
 		position: absolute; right: 0; top: -4px; z-index: 5;
-		background: #8fb5d9 url(../img/arrow-white-top.png) no-repeat right 11px;
+		background: #000000 url(../img/arrow-white-top.png) no-repeat right 11px;
 		padding: 7px 50px 7px 25px;
 		font-family: 'Play', sans-serif;
 		font-size: 0.813em;
