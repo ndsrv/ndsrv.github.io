@@ -61,8 +61,8 @@
 	}
 	
 	.page_text li {
-		padding: 0 0 5px 20px;
-		font-size: 12px;
+		padding: 0 0 5px;
+		font-size: 1.063em;
 	}
 	
 	.page_text figure {
@@ -91,7 +91,7 @@
 	}
 	
 	.page_text p {
-		font-size: 0.75em;
+		font-size: 1.063em;
 		padding-bottom: 20px;
 	}
 	

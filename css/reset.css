@@ -24,7 +24,7 @@ hgroup, menu, nav, section, summary { display: block; }
 
 a, ins, del { text-decoration: none; }
 
-ul, ol { list-style: none; }
+ul { list-style: none; }
 
 table {
 	border-spacing: 0;

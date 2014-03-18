@@ -48,9 +48,9 @@
 		#titlebar ul#top_menu li > a {
 			display: block;
 			position: relative;
-			padding: 0 20px 22px 20px;
+			padding: 0 20px 20px 20px;
 			font-family: 'Play', sans-serif;	
-			font-size: 0.813em;
+			font-size: 1.00em;
 			color: #5a5a5a;
 			-webkit-font-smoothing: antialiased;
 		}
