@@ -32,6 +32,11 @@
 		font-size: 1.188em;
 	}
 	
+		.page_text h1.movnum{
+			position: relative;
+			left: 25px;
+		}
+
 	.page_text header h1 {
 		padding: 0 0 30px 0;
 	}
@@ -43,6 +48,11 @@
 	.page_text h3 {
 		font-size: 1.063em;
 	}
+
+		.page_text h3.movnum{
+			position: relative;
+			left: 25px;
+		}
 	
 	.page_text h4 {
 		font-size: 1.0em;
