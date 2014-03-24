@@ -2,3 +2,4 @@ User-agent: *
 Disallow: /hardware/hardwaretemplate.html
 Disallow: /pulley/pulleytemplate.html
 Disallow: /winch/winchtemplate.html
+Disallow: /template/*
